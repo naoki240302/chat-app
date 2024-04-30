@@ -17,13 +17,13 @@
   align-items: center;
 }
 
-.header-name {
+.header-name a {
   color: #FAFAFA;
   font-size: 16px;
   text-decoration: none;
 }
 
-.create-room {
+.create-room a {
   color: deepskyblue;
   font-size: 10px;
   padding: 14px;
@@ -42,7 +42,7 @@
   margin: 20px 0 40px; 
 }
 
-.room-name {
+.room-name a {
   color: white;
   font-size: 16px;
   text-decoration: none;
